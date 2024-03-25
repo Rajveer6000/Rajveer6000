@@ -1,11 +1,11 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rajveer choudhary</h1>
 <h3 align="center">Web Developer| Proficient in React.js, React Native, PHP</h3>
 
 
+<p align="left"> <a href="https://www.linkedin.com/in/rajveerchoudhary/" target="blank"><img src="https://img.shields.io/twitter/follow/rajveerchoudhary?logo=linkedin&style=for-the-badge" alt="professor600" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/rajveer_choudhary_6000/" target="blank"><img src="https://img.shields.io/twitter/follow/Rajveer Choudhary?logo=instagram&style=for-the-badge" alt="professor600" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/professor600" target="blank"><img src="https://img.shields.io/twitter/follow/professor600?logo=twitter&style=for-the-badge" alt="professor600" /></a> </p>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="rajveerchoudhary" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rajveerchoudhary?trk=profile-badge">Rajveer Choudhary</a></div>
               
 
 - 🔭 I’m currently working on **Multiple projects of react and react-native**
