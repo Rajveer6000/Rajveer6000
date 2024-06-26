@@ -8,6 +8,7 @@
 <p align="left"> <a href="https://twitter.com/professor600" target="blank"><img src="https://img.shields.io/twitter/follow/professor600?logo=twitter&style=for-the-badge" alt="professor600" /></a> </p>
               
 
+
 - 🔭 I’m currently working on **Multiple projects of react and react-native**
 
 - 🌱 I’m currently learning **react-native,php**
@@ -36,5 +37,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajveer6000&show_icons=true&locale=en&layout=compact" alt="rajveer6000" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajveer6000&show_icons=true&locale=en" alt="rajveer6000" /></p>
+<td valign="top" width="50%">
 
+#### GitHub activity metrics
+
+![Anda Toshiki's GitHub contribution](https://github-readme-activity-graph.vercel.app/graph?username=Rajveer6000&theme=github-compact)
+</td>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajveer6000&" alt="rajveer6000" /></p>
