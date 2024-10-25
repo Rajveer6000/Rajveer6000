@@ -43,4 +43,4 @@
 
 ![Anda Toshiki's GitHub contribution](https://github-readme-activity-graph.vercel.app/graph?username=Rajveer6000&theme=github-compact)
 </td>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajveer6000&" alt="rajveer6000" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekrai9900&" alt="rajveer6000" /></p>
